@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rasbarnechow
 - 👀 I’m interested in data, visual analytics and statistical modelling/Machine learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
 - 📫 Reach me on twitter at: @RasmusBarnechow
 
 <!---
